@@ -1,9 +1,13 @@
 ﻿#Dog
 {
+    width: 500px;
+    height: 500px;
     content: url(images/Dog.png);
 }
 
-# {
+#Dog-2 {
+   
+    content: url(images/Dog-2.png);
 }
 
 # {
