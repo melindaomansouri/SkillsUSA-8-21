@@ -1,5 +1,6 @@
 ﻿#dog {
-
+    display:block;
+    margin:auto;
     width: 500px;
     height:500px;
     border: 2px solid black;
@@ -24,13 +25,13 @@
     width: 500px;
     height: 500px;
     border: 2px solid black;
-    content: url(images/dog-4.png);
+    content: url(images/Dog-4.png);
 }
 
 #dog-5 {
     width: 500px;
     height: 500px;
     border: 2px solid black;
-    content: url(images/dog-5.png);
+    content: url(images/Dog-5.png);
 }
 
