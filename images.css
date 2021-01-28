@@ -1,31 +1,35 @@
-﻿#Dog
-{
+﻿#Dog {
     width: 500px;
     height: 500px;
+    border: 2px solid black;
     content: url(images/Dog.png);
 }
 
 #Dog-2 {
     width: 500px;
     height: 500px;
+    border: 2px solid black;
     content: url(images/Dog-2.png);
 }
 
 #Dog-3 {
     width: 500px;
     height: 500px;
-    content: url(images/Dog-3.png)
+    border: 2px solid black;
+    content: url(images/Dog-3.png);
 }
 
 #Dog-4 {
     width: 500px;
     height: 500px;
-    content: url(images/Dog-4.png)
+    border: 2px solid black;
+    content: url(images/Dog-4.png);
 }
 
 #Dog-5 {
     width: 500px;
     height: 500px;
-    content: url(images/Dog-5.png)
+    border: 2px solid black;
+    content: url(images/Dog-5.png);
 }
 
