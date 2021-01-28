@@ -1,32 +1,32 @@
-﻿#Dog {
+﻿#dog {
     width: 500px;
     height: 500px;
     border: 2px solid black;
     content: url(images/Dog.png);
 }
 
-#Dog-2 {
+#dog-2 {
     width: 500px;
     height: 500px;
     border: 2px solid black;
     content: url(images/Dog-2.png);
 }
 
-#Dog-3 {
+#dog-3 {
     width: 500px;
     height: 500px;
     border: 2px solid black;
     content: url(images/Dog-3.png);
 }
 
-#Dog-4 {
+#dog-4 {
     width: 500px;
     height: 500px;
     border: 2px solid black;
     content: url(images/Dog-4.png);
 }
 
-#Dog-5 {
+#dog-5 {
     width: 500px;
     height: 500px;
     border: 2px solid black;
